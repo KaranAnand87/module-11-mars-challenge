@@ -1,9 +1,9 @@
 # module-11-mars-challenge
 
 
-Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+##Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
 
-Part 1: Scrape Titles and Preview Text from Mars News
+###Part 1: Scrape Titles and Preview Text from Mars News
 
 Opened the Jupyter Notebook and scraped the Mars News website.
 Used automated browsing to visit the Mars news site Links to an external site. Inspected the page to identify which elements to scrape.
