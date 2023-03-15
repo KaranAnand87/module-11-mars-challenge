@@ -14,9 +14,9 @@ Printed the list in thr notebook.
 Export the scraped data to a JSON file. 
 
 
-Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
+## Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
 
-Part 2: Scrape and Analyze Mars Weather Data
+### Part 2: Scrape and Analyze Mars Weather Data
 
 Opened the Jupyter Notebook to scrape and analyze Mars weather data.
 Used automated browsing to visit the Mars Temperature Data Site Links to an external site. Inspected the page to identify which elements to scrape.
